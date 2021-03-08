@@ -7,3 +7,4 @@ Cada carpeta contiene todo lo usado para un curso o campaña específica en form
 ser usado con Pandoc para recrear los productos finales.
 
 Hola mundo!
+Lo que sea
