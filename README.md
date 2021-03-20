@@ -5,3 +5,5 @@ ejemplo, introducción a la terminal, introducción a git, etc...
 
 Cada carpeta contiene todo lo usado para un curso o campaña específica en formato Markdown que puede
 ser usado con Pandoc para recrear los productos finales.
+
+Otra linea que dice adios
