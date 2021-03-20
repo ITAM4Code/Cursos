@@ -8,3 +8,4 @@ ser usado con Pandoc para recrear los productos finales.
 
 Hola mundo!
 Lo que sea
+linea nueva
